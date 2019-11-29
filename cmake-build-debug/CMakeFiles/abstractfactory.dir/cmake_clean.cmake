@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/abstractfactory.dir/main.cpp.o"
+  "CMakeFiles/abstractfactory.dir/Driver.cpp.o"
   "abstractfactory.pdb"
   "abstractfactory.exe"
   "libabstractfactory.dll.a"
