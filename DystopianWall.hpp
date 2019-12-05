@@ -16,7 +16,6 @@ public:
     void describe() override {
         cout << "Dystopian Wall!" << endl;
     }
-
 };
 
 #endif //ABSTRACTFACTORY_DYSTOPIANWALL_HPP
